@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1481513720 source:c:\users\jey\documents\programming\tetris-game\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+
